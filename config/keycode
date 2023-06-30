@@ -1,0 +1,12 @@
+22 BackSpace  -> Caps_Lock
+37 Control_L  -> Alt_L
+64 Alt_L      -> Control_L
+66 Caps_Lock  -> BackSpace
+
+
+
+keycode 22 = Caps_Lock NoSymbol Caps_Lock
+keycode 37 = Alt_L Meta_L Alt_L Meta_L
+keycode 64 = Control_L NoSymbol Control_L
+keycode 66 = BackSpace BackSpace BackSpace BackSpace
+ 
